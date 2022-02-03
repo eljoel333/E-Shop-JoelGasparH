@@ -319,3 +319,12 @@ footer .redes a {
   .container-blog{
 	overflow:hidden;
   }
+
+  .bgColor{
+	background-color: #48939b !important;
+  }
+
+  .bgFooter{
+	background:#48939b;
+	
+  }
