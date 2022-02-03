@@ -310,4 +310,12 @@ footer .redes a {
 
   .wdImg{
       width: 50%;
+	  
+  }
+  .wdTransi:hover{
+	
+	-webkit-transform:scale(1.3);transform:scale(1.3);
+}
+  .container-blog{
+	overflow:hidden;
   }
